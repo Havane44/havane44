@@ -3,8 +3,8 @@
 ## Hello!
 I'm a software engineer student mainly interested in robotics, industrial computer science and Open Source related topics.
 - Currently studying at [IMT Nord Europe](https://imt-nord-europe.fr/en/)
-- Will study at [Osaka Univerity](https://www.osaka-u.ac.jp/en) between October 2024 and March 2025 as an exchange student
-- Trying to learn Rust 🦀
+- Doing an exchange semester at [Osaka Univerity](https://www.osaka-u.ac.jp/en) until March 2025
+- Interested in too much stuff at the same time...
 
 Profile page still in progress...
 
