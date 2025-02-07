@@ -8,5 +8,8 @@ I'm a software engineer student mainly interested in robotics, industrial comput
 
 Profile page still in progress...
 
-## Salut !
+## Bonjour !
 Profil en cours de création...
+
+## よろしく！
+このページはまだ書かれています…　終わりませんでした
